@@ -1,4 +1,4 @@
-# first_game
+# Knights-Tournament
 
 semestral project from first year of uni
 
