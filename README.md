@@ -1,7 +1,5 @@
 # Knights-Tournament
 
-semestral project from first year of uni
-
 Hra sa spúšťa dvojklikom na súbor: "Rytierske Turnaje.jar"
 
 Ako reagovať na rôzne problémy pri snahe spustit hru:
